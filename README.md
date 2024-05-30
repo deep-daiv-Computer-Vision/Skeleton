@@ -10,6 +10,11 @@
 git clone https://github.com/deep-daiv-Computer-Vision/Skeleton.git
 ```
 
+실행환경을 설정합니다.
+```
+conda env create -f web.yaml
+```
+
 웹페이지를 실행합니다.
 ```
 streamlit run audrn/web.py
