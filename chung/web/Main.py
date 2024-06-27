@@ -6,6 +6,7 @@ import re
 from datetime import datetime
 import os # 경로 탐색
 from datetime import datetime
+import requests
 
 st.title('Upload') #제목
 st.write('1. youtube 영상 가져오기') #내용
